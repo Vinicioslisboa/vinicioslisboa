@@ -7,7 +7,7 @@
 
   <div>
   <a href="https://beacons.ai/vinicioslisboa">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinicioslisboa&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinicioslisboa&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicioslisboa&layout=compact&langs_count=16&theme=blue-green"/>
   </div>
   
