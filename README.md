@@ -1,7 +1,7 @@
 ### Opaaa, meu nome é Vinícios Lisboa 👋
 <hr>
 
-⇝ 🔭 Atualmente estudando na Generation brasil<br>
+⇝ 🔭 Atualmente estudando na Generation Brasil<br>
 ⇝ 😄 Pronouns: Ele/He
 
 
