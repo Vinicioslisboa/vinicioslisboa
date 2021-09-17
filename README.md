@@ -4,7 +4,7 @@
 ⇝ 🔭 Atualmente estudando na Generation Brasil<br>
 ⇝ 😄 Pronouns: Ele/He
 
-
+<hr>
   <div>
   <a href="https://beacons.ai/Vinicioslisboa">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Vinicioslisboa&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
