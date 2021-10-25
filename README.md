@@ -21,7 +21,7 @@ I'm a Full Stack Java Developer Jr falling in love about the best web and mobile
   <img align="center" alt="Vini-Angular" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Vini-Angular" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
      <img align="right" height="150" width="150" alt="Vini-deadpool" src="https://media1.giphy.com/media/57ZvMMkuBIVMlU88Yh/giphy.gif"> 
-  </div>
+  
   
   ##
   
@@ -31,7 +31,7 @@ I'm a Full Stack Java Developer Jr falling in love about the best web and mobile
   <a href="https://www.linkedin.com/in/vinicios-lisboa-057b7616a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
  ![Snake animation](https://github.com/Vinicioslisboa/Vinicioslisboa/blob/output/github-contribution-grid-snake.svg)
-    
+    </div>
    </div>
       
   
