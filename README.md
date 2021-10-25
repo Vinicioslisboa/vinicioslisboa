@@ -1,15 +1,16 @@
-### Opaaa, meu nome é Vinícios Lisboa 👋
-<hr>
+### Hi, My name is Vinícios Lisboa 👋
 
-⇝ 🔭 Atualmente estudando na Generation Brasil<br>
-⇝ 😄 Pronouns: Ele/He
 
-<hr>
-  <div>
-  <a href="https://beacons.ai/Vinicioslisboa">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Vinicioslisboa&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicioslisboa&layout=compact&langs_count=16&theme=blue-green"/>
-  </div>
+I'm a Full Stack Java Developer Jr falling in love about the best web and mobile development technologies. I have experience with projects using Java, spring, JavaScript, Typescript, Angular, and Bootstrap. I'm a student at Bootcamp Generation Brasil, where I learned in practice on the most modern technologies of web development.  
+
+- 🔭 I am currently looking for a job opportunity.
+- 🌱 I have experience with Java, spring, javascript, angular and bootstrap.
+- Learning react js, node js and mongodb
+  
+<div align="center" >
+
+[![Vinicios Lisboa github stats](https://github-readme-stats.vercel.app/api?username=Vinicioslisboa&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicioslisboa&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
   
   <div style="display: inline_block"><br>
  
