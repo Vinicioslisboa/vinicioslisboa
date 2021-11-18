@@ -1,3 +1,5 @@
+<img align="center" alt="Vini-logo" width="150px" src="https://i.imgur.com/rFMMCAb.png">
+
 ### Hi, My name is Vinícios Lisboa 👋
 
 
