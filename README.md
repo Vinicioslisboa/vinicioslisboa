@@ -5,7 +5,7 @@
 
 I'm a Full Stack Java Developer Jr falling in love about the best web and mobile development technologies. I have experience with projects using Java, spring, JavaScript, Typescript, Angular, and Bootstrap. I'm a student at Bootcamp Generation Brasil, where I learned in practice on the most modern technologies of web development.  
 
-- 🔭 I am currently looking for a job opportunity.
+- 🔭 Developing in PHP and Wordpress.
 - 🌱 I have experience with Java, spring, javascript, angular and bootstrap.
 - Learning react js, node js and mongodb
   
