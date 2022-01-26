@@ -21,7 +21,7 @@ I'm a Full Stack Java Developer Jr falling in love about the best web and mobile
   <img align="center" alt="Vini-MySQL" height="60" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Vini-Javascript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Vini-Angular" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Vini-Angular" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="Vini-bootstrap" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
      <img align="right" height="150" width="150" alt="Vini-deadpool" src="https://media1.giphy.com/media/57ZvMMkuBIVMlU88Yh/giphy.gif"> 
   
   
