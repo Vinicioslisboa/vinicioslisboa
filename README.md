@@ -3,11 +3,10 @@
 ### Hi, My name is Vinícios Lisboa 👋
 
 
-I'm a Full Stack Java Developer Jr falling in love about the best web and mobile development technologies. I have experience with projects using Java, spring, JavaScript, Typescript, Angular, and Bootstrap. I'm a student at Bootcamp Generation Brasil, where I learned in practice on the most modern technologies of web development.  
+I am a frontend developer, passionate about technology and solving problems I encounter on a daily basis. Currently working with javascript and typescript and the react-js library, experience with firebase, styled-components, material-ui, bootstrap and others.
 
-- 🔭 Developing in PHP and Wordpress.
+- 🔭 Developing in React-Js.
 - 🌱 I have experience with Java, spring, javascript, angular and bootstrap.
-- Learning react js, node js and mongodb
   
 <div align="center" >
 
@@ -15,15 +14,12 @@ I'm a Full Stack Java Developer Jr falling in love about the best web and mobile
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicioslisboa&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
   
   <div style="display: inline_block"><br>
- 
-  <img align="center" alt="Vini-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Vini-Spring" height="60" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Vini-MySQL" height="60" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+
   <img align="center" alt="Vini-Javascript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Vini-Angular" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Vini-typescript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Vini-react" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Vini-bootstrap" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
-     <img align="right" height="150" width="150" alt="Vini-deadpool" src="https://media1.giphy.com/media/57ZvMMkuBIVMlU88Yh/giphy.gif"> 
-  
+  <img align="center" alt="Vini-firebase" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg">  
   
   ##
   
