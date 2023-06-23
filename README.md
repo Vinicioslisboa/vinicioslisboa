@@ -9,9 +9,6 @@ I am a frontend developer, passionate about technology and solving problems I en
 - 🌱 I have experience with Java, spring, javascript, angular and bootstrap.
   
 <div align="center" >
-
-[![Vinicios Lisboa github stats](https://github-readme-stats.vercel.app/api?username=Vinicioslisboa&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicioslisboa&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
   
   <div style="display: inline_block"><br>
 
